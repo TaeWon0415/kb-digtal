@@ -1,1 +1,1 @@
-# kb-digtal
+# KB_digital
