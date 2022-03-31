@@ -1,6 +1,6 @@
 # KB_digital
 
-LDA 토픽모델링을 활용한 주삭 정보 서비스, 'Social Trend Service' 
+LDA 토픽모델링을 활용한 주식 정보 서비스, 'Social Trend Service' 
 --------------------------------------------
 
 1. 소셜 트렌드 서비스
